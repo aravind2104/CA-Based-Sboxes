@@ -1,0 +1,12 @@
+# Ignore virtual environment
+ascon/Lib/
+ascon/Scripts/
+ascon/Include/
+ascon/pyvenv.cfg
+ascon/Lib/site-packages/
+ascon/share/
+ascon
+
+# General
+venv/
+.env/
